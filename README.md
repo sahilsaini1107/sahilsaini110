@@ -1,5 +1,4 @@
-
- <h1 align="center">Hi 👋, I'm Sahil Saini</h1>
+<h1 align="center">Hi 👋, I'm Sahil Saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsaini110&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsaini110" /> </p>
@@ -16,6 +15,10 @@
 <a href="https://kaggle.com/sahilsaini110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilsaini110" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sahilsaini110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sahilsaini110" height="30" width="40" /></a>
 <a href="https://medium.com/@sohil170246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sohil170246" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahil_saini_che1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil_saini_che1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sahil..saini..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahil..saini..." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahilsaini110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilsaini110" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sahilsainiche20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahilsainiche20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,15 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsaini110&show_icons=true&locale=en" alt="sahilsaini110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsaini110&" alt="sahilsaini110" /></p>
-
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
