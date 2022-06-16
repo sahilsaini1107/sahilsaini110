@@ -21,18 +21,6 @@
 
 ---
 
-<!-- ### 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START 
-- [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
-- [Join me in the #100DaysOfWeb3 challenge](https://medium.com/@itsrakesh/join-me-in-the-100daysofweb3-challenge-abc13e831d27?source=rss-e09c62468ad2------2)
-- [Taking Open Source contributions and communities to next level with the Reward System](https://medium.com/codex/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-9d6e943cef48?source=rss-e09c62468ad2------2)
-- [How the Web works — Behind the scenes](https://bootcamp.uxdesign.cc/how-the-web-works-behind-the-scenes-a7e54a1a240f?source=rss-e09c62468ad2------2)
-- [Web3 learning platforms — Earn While You Learn](https://medium.com/@itsrakesh/web3-learning-platforms-earn-while-you-learn-b158d1ca3115?source=rss-e09c62468ad2------2)
- BLOG-POST-LIST:END 
- -->
- 
- 
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sahilsaini110&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="sahil's github stats" width="48%" align="right" >
@@ -45,7 +33,6 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
-<!-- [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)] -->
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
@@ -66,7 +53,6 @@
 ### 🗃️ Databases
 
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
-<!-- [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://itsrakesh.co) -->
 
 ### ⚒️ Tools
 
@@ -79,25 +65,18 @@
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]
 [![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)]
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]
-<!-- [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://itsrakesh.co) -->
-<!-- [![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://itsrakesh.co) -->
 [![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)]
 
 ### 🧠 IDEs/Text Editors I use
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://itsrakesh.co)
-<!-- [![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://itsrakesh.co) -->
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://itsrakesh.co)
-<!-- [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://itsrakesh.co) -->
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://itsrakesh.co)
-<!-- [![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://itsrakesh.co) -->
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.co)
 
 ### 💻 Workspace
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)
-<!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://itsrakesh.co)
-[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://itsrakesh.co) -->
 
 ---
 
@@ -116,13 +95,6 @@
   
   [![Sahil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sahilsaini110&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
 </details> -->
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru) -->
-<!---
-RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 
 
