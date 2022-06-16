@@ -1,17 +1,17 @@
-[![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
+<!-- [![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Rakesh</h1>
-<h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Sahil Saini</h1>
+<h3 align="center">🌐 Web Developer ✍️ Web Designer </h3>
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
+<!-- - 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects) -->
 
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
+<!-- - 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co) -->
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rakesh@itsrakesh.co**
+- 📫 How to reach me ****
 
 ### 🤝 Connect with me:
 
@@ -21,22 +21,22 @@
 
 ---
 
-### 📜 Latest Blog Posts
+<!-- ### 📜 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
 - [Join me in the #100DaysOfWeb3 challenge](https://medium.com/@itsrakesh/join-me-in-the-100daysofweb3-challenge-abc13e831d27?source=rss-e09c62468ad2------2)
 - [Taking Open Source contributions and communities to next level with the Reward System](https://medium.com/codex/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-9d6e943cef48?source=rss-e09c62468ad2------2)
 - [How the Web works — Behind the scenes](https://bootcamp.uxdesign.cc/how-the-web-works-behind-the-scenes-a7e54a1a240f?source=rss-e09c62468ad2------2)
 - [Web3 learning platforms — Earn While You Learn](https://medium.com/@itsrakesh/web3-learning-platforms-earn-while-you-learn-b158d1ca3115?source=rss-e09c62468ad2------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
+ BLOG-POST-LIST:END 
+ -->
+ 
+ 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Sahilsaini110&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="sahil's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilsaini110&theme=tokyonight&hide_border=true" alt="sahil's github streak" width="48%" >
 
 ---
 
