@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **Portfolio Comming soon...**
 
 ### 🤝 Connect with me:
 
