@@ -15,8 +15,8 @@
 
 ### 🤝 Connect with me:
 
-Portfolio<!--(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co) -->
-Twitter<!--(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)]<!--(https://itsrakesh.co) -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]<!--(https://twitter.com/rakesh_at_tweet)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsaini110/)
 
 ---
